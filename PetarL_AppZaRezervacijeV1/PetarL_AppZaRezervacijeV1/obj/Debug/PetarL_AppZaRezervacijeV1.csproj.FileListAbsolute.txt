@@ -1,0 +1,9 @@
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\bin\Debug\PetarL_AppZaRezervacijeV1.exe.config
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\bin\Debug\PetarL_AppZaRezervacijeV1.exe
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\bin\Debug\PetarL_AppZaRezervacijeV1.pdb
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\obj\Debug\PetarL_AppZaRezervacijeV1.csproj.AssemblyReference.cache
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\obj\Debug\PetarL_AppZaRezervacijeV1.Windovi.Home.resources
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\obj\Debug\PetarL_AppZaRezervacijeV1.csproj.GenerateResource.cache
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\obj\Debug\PetarL_AppZaRezervacijeV1.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\obj\Debug\PetarL_AppZaRezervacijeV1.exe
+C:\Users\Gaming PC\source\repos\PetarL_AppZaRezervacijeV1\PetarL_AppZaRezervacijeV1\obj\Debug\PetarL_AppZaRezervacijeV1.pdb
